@@ -49,3 +49,7 @@ MIT — ver [LICENSE](LICENSE).
 ## Estado del proyecto
 En desarrollo activo. Semana 2 de 72 del plan de formación en Cloud Security Engineering.
 
+
+## Notas de mantenimiento
+
+Repositorio en actualización continua conforme avanza el plan de formación.
