@@ -1,0 +1,16 @@
+# Archivos temporales de editores
+*.swp
+*.swo
+*~
+
+# Sistema
+.DS_Store
+
+# Logs y temporales
+*.log
+*.tmp
+
+# Variables de entorno y secretos (relevante desde la fase 1 en adelante)
+.env
+*.pem
+*.key
