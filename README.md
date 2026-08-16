@@ -45,3 +45,7 @@ productiva de ninguna organización.
 ## Licencia
 
 MIT — ver [LICENSE](LICENSE).
+
+## Estado del proyecto
+En desarrollo activo. Semana 2 de 72 del plan de formación en Cloud Security Engineering.
+
